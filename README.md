@@ -1,5 +1,5 @@
  <h1>Angular one seed project</h1>
-<p>This is Angular 1 seed project</p>
+<p>This is Angular 1 MEAN Stack seed project.</p>
 
  <h1>Running this on your local machine</h1>
  
