@@ -1,10 +1,11 @@
  <h1>Angular one seed project</h1>
 <p>This is Angular 1 seed project</p>
 
-
+ <h1>Running this on your local machine</h1>
+ 
 <ol>
-  <li>git clone https://github.com/jannunzi/web-dev-template.git</li>
-<li>cd web-dev-template</li>
+  <li>git clone https://github.com/seshasaisrivatsav/angular-one-seed/</li>
+<li>cd angular-one-seed</li>
 <li>npm install</li>
 <li>mongod</li>
 <li>node server.js</li>
