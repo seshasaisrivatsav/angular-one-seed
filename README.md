@@ -1,4 +1,4 @@
-# web-dev-template
+ <h1>Angular one seed project</h1>
 <p>This is Angular 1 seed project</p>
 
 
